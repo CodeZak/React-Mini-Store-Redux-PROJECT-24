@@ -1,0 +1,24 @@
+.notification_section {
+}
+.container {
+    margin: auto;
+    color: white;
+    width: 90vw;
+    max-width: 1520px;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.success {
+    background-color: green;
+}
+
+.error {
+    background-color: brown;
+}
+
+.pending {
+    background-color: rgb(9, 82, 150);
+}
+
